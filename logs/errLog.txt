@@ -1,0 +1,4 @@
+20240511	18:11:07	8ed8e683-bdef-455e-8df1-326b6c2575de	Error: Not allowed by CORS
+20240511	18:11:36	384fbfd5-f965-47f1-9e52-40a89af0e79f	Error: Not allowed by CORS
+20240511	18:59:09	182728a0-c7ec-44a8-b587-c2cadf04b246	TypeError: res.sedFile is not a function
+20240511	18:59:12	33010a6b-ed14-473b-b8e9-93acd622183b	TypeError: res.sedFile is not a function
